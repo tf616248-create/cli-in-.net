@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>BundleTool</id>
+    <version>1.0.0</version>
+    <authors>user1</authors>
+    <description>כלי CLI לאריזת קבצי קוד לקובץ אחד</description>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+    <repository type="git" />
+  </metadata>
+  <files>
+    <file src="C:\Users\user1\Documents\תכנות תשפו\פרקטי-קוד\join\join\obj\Release\net8.0\DotnetToolSettings.xml" target="tools\net8.0\any\DotnetToolSettings.xml" />
+    <file src="C:\Users\user1\Documents\תכנות תשפו\פרקטי-קוד\join\join\bin\Release\net8.0\publish\join.dll" target="tools\net8.0\any\join.dll" />
+    <file src="C:\Users\user1\Documents\תכנות תשפו\פרקטי-קוד\join\join\bin\Release\net8.0\publish\join.deps.json" target="tools\net8.0\any\join.deps.json" />
+    <file src="C:\Users\user1\Documents\תכנות תשפו\פרקטי-קוד\join\join\bin\Release\net8.0\publish\join.runtimeconfig.json" target="tools\net8.0\any\join.runtimeconfig.json" />
+    <file src="C:\Users\user1\Documents\תכנות תשפו\פרקטי-קוד\join\join\bin\Release\net8.0\publish\join.pdb" target="tools\net8.0\any\join.pdb" />
+    <file src="C:\Users\user1\Documents\תכנות תשפו\פרקטי-קוד\join\join\bin\Release\net8.0\publish\System.CommandLine.dll" target="tools\net8.0\any\System.CommandLine.dll" />
+    <file src="C:\Users\user1\Documents\תכנות תשפו\פרקטי-קוד\join\join\bin\Release\net8.0\publish\cs\System.CommandLine.resources.dll" target="tools\net8.0\any\cs\System.CommandLine.resources.dll" />
+    <file src="C:\Users\user1\Documents\תכנות תשפו\פרקטי-קוד\join\join\bin\Release\net8.0\publish\de\System.CommandLine.resources.dll" target="tools\net8.0\any\de\System.CommandLine.resources.dll" />
+    <file src="C:\Users\user1\Documents\תכנות תשפו\פרקטי-קוד\join\join\bin\Release\net8.0\publish\es\System.CommandLine.resources.dll" target="tools\net8.0\any\es\System.CommandLine.resources.dll" />
+    <file src="C:\Users\user1\Documents\תכנות תשפו\פרקטי-קוד\join\join\bin\Release\net8.0\publish\fr\System.CommandLine.resources.dll" target="tools\net8.0\any\fr\System.CommandLine.resources.dll" />
+    <file src="C:\Users\user1\Documents\תכנות תשפו\פרקטי-קוד\join\join\bin\Release\net8.0\publish\it\System.CommandLine.resources.dll" target="tools\net8.0\any\it\System.CommandLine.resources.dll" />
+    <file src="C:\Users\user1\Documents\תכנות תשפו\פרקטי-קוד\join\join\bin\Release\net8.0\publish\ja\System.CommandLine.resources.dll" target="tools\net8.0\any\ja\System.CommandLine.resources.dll" />
+    <file src="C:\Users\user1\Documents\תכנות תשפו\פרקטי-קוד\join\join\bin\Release\net8.0\publish\ko\System.CommandLine.resources.dll" target="tools\net8.0\any\ko\System.CommandLine.resources.dll" />
+    <file src="C:\Users\user1\Documents\תכנות תשפו\פרקטי-קוד\join\join\bin\Release\net8.0\publish\pl\System.CommandLine.resources.dll" target="tools\net8.0\any\pl\System.CommandLine.resources.dll" />
+    <file src="C:\Users\user1\Documents\תכנות תשפו\פרקטי-קוד\join\join\bin\Release\net8.0\publish\pt-BR\System.CommandLine.resources.dll" target="tools\net8.0\any\pt-BR\System.CommandLine.resources.dll" />
+    <file src="C:\Users\user1\Documents\תכנות תשפו\פרקטי-קוד\join\join\bin\Release\net8.0\publish\ru\System.CommandLine.resources.dll" target="tools\net8.0\any\ru\System.CommandLine.resources.dll" />
+    <file src="C:\Users\user1\Documents\תכנות תשפו\פרקטי-קוד\join\join\bin\Release\net8.0\publish\tr\System.CommandLine.resources.dll" target="tools\net8.0\any\tr\System.CommandLine.resources.dll" />
+    <file src="C:\Users\user1\Documents\תכנות תשפו\פרקטי-קוד\join\join\bin\Release\net8.0\publish\zh-Hans\System.CommandLine.resources.dll" target="tools\net8.0\any\zh-Hans\System.CommandLine.resources.dll" />
+    <file src="C:\Users\user1\Documents\תכנות תשפו\פרקטי-קוד\join\join\bin\Release\net8.0\publish\zh-Hant\System.CommandLine.resources.dll" target="tools\net8.0\any\zh-Hant\System.CommandLine.resources.dll" />
+  </files>
+</package>
